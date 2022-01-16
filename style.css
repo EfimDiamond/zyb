@@ -1,0 +1,61 @@
+.row {
+  background: white
+}
+
+	body {
+		background: #000 url(matem.png);
+		color: #000;
+		background-repeat: repeat-xy;
+    padding-left: 20% !important;
+  padding-right: 20% !important;
+	}
+
+
+
+.px-6 {
+  padding-left: 1% !important;
+  padding-right: 1% !important;
+
+}
+.px-7 {
+  padding-left: 25% !important;
+  padding-right: 25% !important;
+}
+
+.red {
+ color: #dc3545;
+} 
+
+.green {
+  color: green;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.blue {
+  color: blue;
+}
+
+.accordion-item {
+ padding-left: 0% !important;
+  padding-right: 25% !important;
+
+}
+
+.accordion-header {
+   padding-left: 0% !important;
+  padding-right: 25% !important;
+}
+
+.accordion-button collapsed {
+  padding-left: 0% !important;
+  padding-right: 25% !important;
+}
+
+
+
+
+
+
